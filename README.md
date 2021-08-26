@@ -8,7 +8,7 @@ https://github.com/umutsimsek07/kodluyoruzilkrepo
 ## Usage
 ```
 cd kodluyoruzilkrepo
-code.
+code .
 ```
 ## Contributing
 
